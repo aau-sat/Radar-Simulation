@@ -6,7 +6,7 @@ A holistic, high-fidelity and noise aware FMCW radar simulation framework: from 
 
 submitted to the IEEE Sensor Journal.
 
-The main code is "RadarSimulation_3D_driving". The code connects to Unity via TCPIP and provides:
+The main code is "RadarSimulation_3D_driving". The code connects to Unity via TCP/IP and provides:
 % - time domain data with noise
 % - range FFT
 % - doppler FFT
