@@ -14,5 +14,5 @@ The main code is "RadarSimulation_3D_driving". The code connects to Unity via TC
 % - Range Angle Map
 % - 3D radar point cloud
 
-Phase Noise data are not given, by request of the provider. 
+Phase Noise data are not given, by request of the provider. As such, the function that generates DPN samples is also not provided in this repository.
 
