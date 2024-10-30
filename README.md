@@ -2,7 +2,7 @@
 
 Code used for the 3D driving scenario in the parking garage simulation, as described in the paper:
 
-A holistic, high-fidelity and noise aware FMCW radar simulation framework: from waveform to point cloud
+"A holistic, high-fidelity and noise aware FMCW radar simulation framework: from waveform to point cloud"
 
 submitted to the IEEE Sensor Journal.
 
